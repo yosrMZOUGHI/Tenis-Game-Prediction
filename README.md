@@ -1,4 +1,4 @@
-# Tenis-Game-Prediction
+# Tennis-Game-Prediction
 
 
 We used Logistic Regression to predict either a player wins ( predict 1) or loses ( predict 2) in a Tennis game.  
